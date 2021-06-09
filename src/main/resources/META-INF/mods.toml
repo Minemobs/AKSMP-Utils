@@ -8,7 +8,7 @@ displayName = "AkSMP: Utils"
 # A URL to query for updates for this mod. See the JSON update specification <here>
 #updateJSONURL="http://myurl.me/" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/"
+displayURL="https://github.com/Minemobs/AKSMP-Utils"
 #logoFile="aksmputils.png" #optional
 #credits="Thanks for this example mod goes to Java" #optional
 authors = "minemobs" #optional
